@@ -1,0 +1,1 @@
+gcc h2642jpeg.c -o test -lavcodec  -lavdevice -lavfilter -lavformat -lavutil -lpostproc -lswresample -lswscale
